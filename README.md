@@ -16,3 +16,5 @@
 -Outils informatiques à installer  
   Android Studio  
   Java JSK 7  
+
+Nicolas
